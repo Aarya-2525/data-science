@@ -1,2 +1,2 @@
-# data-science-daily
+# data-science
 Advancing in data science using Python.
